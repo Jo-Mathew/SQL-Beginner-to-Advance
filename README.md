@@ -59,6 +59,8 @@ Covers the fundamentals of SQL, including essential commands and basic database 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/<your-username>/SQL-Beginner-to-Advance.git
+2. Open the .sql files in SQL Server Management Studio (SSMS) or your preferred SQL editor.
+3. Run the scripts in sequence according to your learning stage (Beginner → Intermediate → Advanced).
 
 ## 🙌 Credits  
 This learning journey was inspired by and follows tutorials from the YouTube channel [Data with Baraa](https://www.youtube.com/watch?v=SSKVgrwhzus&t=73957s).  
